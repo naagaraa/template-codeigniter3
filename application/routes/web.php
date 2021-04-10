@@ -1,3 +1,3 @@
 <?php
 
-Route::get('home', 'welcome@index');
+Route::get('/', 'welcome@index');
