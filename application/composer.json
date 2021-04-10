@@ -1,0 +1,5 @@
+{
+    "require": {
+        "luthier/luthier": "^1.0"
+    }
+}
